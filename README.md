@@ -1,4 +1,4 @@
-#TWEB TE2
+# TWEB TE2
 
 author: Mathieu Jee
 
@@ -6,7 +6,7 @@ date: January 2019
 
 
 
-##Choix d'implémentation
+## Choix d'implémentation
 
 J'ai choisi d'implémenter le backend. Ce repo contient donc juste un petit client frontend permettant le login uniquement. 
 
